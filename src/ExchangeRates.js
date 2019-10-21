@@ -4,11 +4,6 @@ import { gql } from "apollo-boost";
 
 const BACKEND_DATA = gql`
   {
-    # books {
-    #   title
-    #   author
-    # }
-
     tickets {
       title
       description
