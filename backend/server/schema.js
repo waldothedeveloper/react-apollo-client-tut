@@ -9,6 +9,7 @@ const typeDefs = gql`
   type Ticket {
     description: String
     title: String
+    ticketNumber: String
   }
 
   # The "Query" type is special: it lists all of the available queries that

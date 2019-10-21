@@ -11,7 +11,7 @@ const BACKEND_DATA = gql`
   }
 `;
 
-export default function ExchangeRates() {
+export default function GetTicket() {
   const { loading, error, data } = useQuery(BACKEND_DATA);
 
   if (loading) return <p>Loading...</p>;

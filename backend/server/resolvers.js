@@ -1,7 +1,8 @@
 const tickets = [
   {
     description: "Ticket testing description",
-    title: "Ticket test title"
+    title: "Ticket test title",
+    ticketNumber: "T20190803.1121"
   }
 ];
 
