@@ -2,7 +2,7 @@ const tickets = [
   {
     description: "Ticket testing description",
     title: "Ticket test title",
-    ticketNumber: "T20190803.1121"
+    ticketNumber: "123"
   }
 ];
 
